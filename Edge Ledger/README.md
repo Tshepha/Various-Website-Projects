@@ -1,4 +1,4 @@
-A sample website I made to show off smoothscrolling and to have most the content on a single page and still have it look nice.
+A sample website I made to show off smoothscrolling and to have most of the content on a single page and still have it look nice.
 
 Index-Home
 ![127 0 0 1_5500_index html (4)](https://github.com/Tshepha/Various-Website-Projects/assets/137649487/a775ca46-4e2c-4041-8bea-d5190ec5252d)
