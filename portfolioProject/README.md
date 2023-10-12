@@ -1,4 +1,4 @@
-A sample portfolio website imade for a course project. Has a little bit of javascript to animate some text on the homepage to change into different words.
+A sample portfolio website I made for a course project. Has a little bit of javascript to animate some text on the homepage to change into different words.
 
 Index
 ![127 0 0 1_5500_dist_index html (1)](https://github.com/Tshepha/Various-Website-Projects/assets/137649487/7933b41e-4e17-48d4-b04e-9c51641ef10b)
